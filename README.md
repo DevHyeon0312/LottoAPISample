@@ -1,4 +1,4 @@
-# LottoAPISample ( Retrofit )
+# LottoAPISample ( Retrofit2 )
 로또 당첨결과 가져오기 Sample
 
 
